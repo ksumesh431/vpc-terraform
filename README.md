@@ -8,7 +8,8 @@
 - priv_1_cidr  (CIDR for private subnet 1) 
 - priv_2_cidr  (CIDR for private subnet 2) 
   
-> Optional Availability Zone variables for subnets 
+  
+> Optional Availability Zone variables for subnets:
 - pub_1_az (Optional)   
 - pub_2_az (Optional)   
 - priv_1_az (Optional)   
