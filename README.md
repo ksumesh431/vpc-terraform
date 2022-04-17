@@ -1,6 +1,4 @@
 # Terraform VPC Module
-![](https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg)
-
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg" width="200" height="50" />
 
 ## Module Input Variables
