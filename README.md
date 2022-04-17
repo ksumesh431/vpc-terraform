@@ -1,5 +1,5 @@
 # Terraform VPC Module
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg" width="200" height="50" />
+<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" width="200" height="50" />
 
 ## Module Input Variables
 
