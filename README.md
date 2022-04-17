@@ -1,6 +1,8 @@
 # Terraform VPC Module
 ![](https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg)
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg" width="200" height="200" />
+
 ## Module Input Variables
 
 - vpc_cidr_block 
