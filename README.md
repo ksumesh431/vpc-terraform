@@ -1,4 +1,5 @@
 # Terraform VPC Module
+![](https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg)
 
 ## Module Input Variables
 
@@ -8,7 +9,7 @@
 - priv_1_cidr  (CIDR for private subnet 1) 
 - priv_2_cidr  (CIDR for private subnet 2) 
   
-  
+
 > Optional Availability Zone variables for subnets:
 - pub_1_az (Optional)   
 - pub_2_az (Optional)   
